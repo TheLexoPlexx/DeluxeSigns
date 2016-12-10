@@ -1,0 +1,11 @@
+name: DeluxeSigns
+version: 0.3.2
+author: G_3_N_I_S_Y_S
+description: Create awesome signs large enough to read them properly and small enough to fit everywhere.
+
+main: de.zbs.deluxesigns.main.DeluxeSigns
+
+commands:
+  deluxesigns:
+    description: Hauptcommand von DeluxeSigns
+    aliases: [ds]
