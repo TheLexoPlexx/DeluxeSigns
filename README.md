@@ -1,0 +1,2 @@
+# DeluxeSigns
+Discontinued Spigot Plugin
